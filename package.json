@@ -1,0 +1,19 @@
+{
+  "name": "anyquestions",
+  "version": "1.0.0",
+  "description": "Web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavdeep-saragadam/AnyQuestions.git"
+  },
+  "author": "Bhavdeep S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavdeep-saragadam/AnyQuestions/issues"
+  },
+  "homepage": "https://github.com/bhavdeep-saragadam/AnyQuestions#readme"
+}
